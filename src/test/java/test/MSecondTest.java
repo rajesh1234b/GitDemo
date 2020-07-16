@@ -8,6 +8,8 @@ public class MSecondTest {
 	public void thrird() {
 		System.out.println("third method is invoked");
 		System.out.println("third duplicate method is invoked");
+		System.out.println("third da duplicate method is invoked");
+		System.out.println("third db duplicate method is invoked");
 	}
 	
 	@Test
