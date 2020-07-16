@@ -7,6 +7,7 @@ public class MSecondTest {
 	@Test
 	public void thrird() {
 		System.out.println("third method is invoked");
+		System.out.println("third duplicate method is invoked");
 	}
 	
 	@Test
